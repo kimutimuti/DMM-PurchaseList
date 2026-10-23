@@ -7,7 +7,7 @@
 
 #### 主な変更点
 - 対象を同人購入リストからDMM全体の購入履歴（<https://payment.dmm.com/history/>）とDMMポイントクラブのポイント購入履歴（<https://www.pointclub.dmm.com/management/history#use-info>）へと変化
-- 必要なライブラリが`playwright`のみだったので`req.txt`の削除
+- 必要な外部ライブラリが`playwright`のみだったので`req.txt`の削除
 - 上記に伴う`README.md`の改変
 
 
